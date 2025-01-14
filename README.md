@@ -1,6 +1,6 @@
-# BF591 Final Project RShiny App
+#  RShiny App
 
-This repository contains a Shiny dashboard application developed for the BF591 final project. The app provides a graphical user interface for exploring, visualizing, and analyzing biological data, such as sample metadata, gene count data, differential expression results, and GSEA outcomes.
+This repository contains a Shiny dashboard application developed for the rna-seq datasets analysis project. The app provides a graphical user interface for exploring, visualizing, and analyzing biological data, such as sample metadata, gene count data, differential expression results, and GSEA outcomes.
 
 **Project Introduction**:  
 In this project, we integrate and analyze RNA-Seq datasets to understand the gene expression patterns and biological pathways associated with diseases such as Huntington’s Disease. Through interactive dashboards, users can filter genes by variance and non-zero counts, generate heatmaps, perform PCA, visualize DE results with volcano plots, and explore GSEA outcomes. This tool helps researchers quickly gain insights into complex RNA-Seq data and streamline their data exploration process.
